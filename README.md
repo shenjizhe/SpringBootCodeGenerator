@@ -9,10 +9,10 @@ code generator for spring boot in c#
 ```
 ## 操作主界面
 
-![ui.png](doc/images/ui.png)
+![ui.png](SpringBootCodeFactory/doc/images/ui.png)
 
 ## 生成代码
-![code.png](doc/images/code.png)
+![code.png](SpringBootCodeFactory/doc/images/code.png)
 
 ## 生成的工程
-![project.png](doc/images/project.png)
+![project.png](SpringBootCodeFactory/doc/images/project.png)
